@@ -1,0 +1,81 @@
+CONSUMABLES:
+
+Chocolate Bar: Barra de Chocolate
+God Cheese: Queso Divino
+Monster Candy: Dulce Monstruo
+Monster Candy?: ¿Dulce Monstruo?
+Pirate Gold: Moneda Pirata
+Sea Tea: Té de Mar
+Jelly Juice: Jugo Gelatina
+Muu Milk: Cremuu de Leche (Milk Cream)
+Cute Coffee: Lindo Café
+Crispy Fries: Papitas Crujientes
+Grillburger: Grillburguesa
+Golden Flower Tea: Té de Flores Doradas
+Bitter Tea: Té Amargo
+Peanut Sandwitch: Sándwich de Maní
+Butter Sandwitch: Sándwich de Mantequilla
+Jelly Sandwitch: Sándwich de Gelatina
+Dog Cookie: Galleta Perro
+Super Dog: Súper Perro
+Average Dog: Perro Normal
+Red Hot Resume: Currículum Ardiente
+Spider Scone: Postre Arácnido
+Spider Latte: Café Arácnido
+LongLegCookie: GaletaArañaTigre (Long legs' spider cookie)
+Spider Muffin: Muffin Arácnido
+Spider DD: Dona Lujosa Arácnida
+Spider HD: Media Dona Arácnida
+Spider CD: Sidra Premium Arácnida
+Bakers Eighth's: Torta para Ocho (cake for eighth people)
+Bakers Seventh's: Torta para Siete
+Bakers Sixth's: Torta para Seis
+Bakers Fifth's: Torta para Cinco
+Bakers Fourth's: Torta para Cuatro
+Bakers Third's: Torta para Tres
+Bakers Half's: Torta para Dos
+Bakers One's: Torta para Uno
+Honeyed Fungi: Hongo Caramelo
+Carnation Pie: Pastel de Miel
+Spark Dots: Chispas de Colores
+Stale Candy: Dulce Rancio
+Super Dawg: Súper Perrito
+SOUL~ Puff: Pastel ALMA~
+
+TOOLS:
+
+Pointy Stick: Palo Puntiagudo
+Cowboy Hat: Sombrero Vaquero
+Toy Gun: Pistola de Juguete
+Torn Apron: Delantal Rasgado
+Patched Apron: Delantal Parcheado
+Dented Pan: Sartén Doblada
+Koffin-K: Koffin-K
+C.Bones Patch: Parche H.Cruzados
+C.Cowboy Hat: Sombrero Vaquero H.C.
+
+KEY:
+
+Journal: Diario
+Puzzler's Proof: Trofeo de Puzzles
+Pup Purse: Monedero Cachorro
+Cell Phone: Teléfono
+Running Boots: Botas Corredoras
+Super-Signal: Súper Señal
+IOU: Pagaré
+Spider Silk: Seda de Araña
+Fish Bait: Carnada
+Fishing Line: Cuerda de Pesca
+
+SERVANT ITEMS:
+
+Janitor's Key: Llave del Conserje
+Candy: Dulce
+Rock Candy: Dulce Rocoso
+Clean Suit: Traje Limpio
+Dirty Suit: Traje Sucio
+Detergent: Detergente
+Empty Bottle: Botella Vacía
+Donut: Dona
+Trash Donut: Dona Desecha
+Poem: Poema

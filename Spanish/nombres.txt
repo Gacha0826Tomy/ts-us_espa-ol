@@ -1,0 +1,31 @@
+Nombres que deberían o no ser traducidos
+
+Los que no (se dejan en Inglés):
+{
+    Mettalot
+    Harry y Larry
+    Conde Koffin-K
+    Aaxel
+    Norman
+}
+
+Los que sí (ya traducidos):
+{
+    Sgt Splosion: Sgt Explosivo (por "Explosivo" de ser una bomba y por su personalidad "explosiva", aunque también está combinado por "Impulsivo") (from "Explosivo" (Explosive) from being a bomb and his explosive personality, and can be a combination with "Impulsivo" (Impulsive))
+    The Greasers: Los Grasosos (por un grupo de memes que se llaman a sí mismos "La Grasa" o "Los Seguidores De La Grasa") (from a meme group that call theirselves "La Grasa" (The Fat) or "Los Seguidores De La Grasa" (The Fat's Followers))
+    Syrose: Rosilda (por "Rosa" y "Linda") (from "Rosa" (Rose) and "Linda" (Cute))
+    Woodwork: Madeduro (por "Madera" and "Duro") (from "Madera" (Wood) and "Duro" (hard person/material))
+    Beenard: Abeniel (por "Abeja", "Miel" y "Daniel") (from "Abeja" (bee), "Miel" (Honey) and "Daniel" (normal name))
+    Sunbrock: Soleante (por "Sol" y "Brillante"/"Radiante") (from "Sol" (Sun) and "Brillante"/"Radiante" (Radiant))
+}
+
+Los que tal vez {
+    Crossbones: HuesosCruzados (porque a mí en lo personal me parece grasioso, además de ser muy literal. Y aparentemente hay un libro llamado así...) (because is very funny to me, and is kinda literal. And apparently there's a book named like that...)
+    Boogiemen: Secuaces (de su ocupación como secuaces de koffin-k) (from being the koffin-k's henchmen)
+    Karapaes: Carapanchón (de "Carapacho" y "Panzón" porque se ve panzoncito en su sprite) (from "Carapacho" (Carapace) and "Panzón" (Potbellied) because he seems like that in his sprite)
+    Scutler: Escurtante (de "Escudo" and "Cortante") (from "Escudo" (scute) and "Cortante" (sharp))
+    Ballard: Ballido (no refencia nada ni viene de nada) (isn't based off of anything, I just like how it sounded)
+    Moldrick: Viscente (de "Viscoso" y "Vicente") (from "Viscoso" (Viscose) and "Vicente" (normal name))
+    Butchy: Miriapulsor (de "Miriápodos", "Miriam" y "Propulsor") (from "Mirápodos" (Centipede/Myriapods), "Miriam" (normal name) and "Propulsor" (Propeller))
+    Mordax: Pezcador (from "Pez" and "Pescador) (from "Pez" (fish) and "Pescador (Fishman))
+}
