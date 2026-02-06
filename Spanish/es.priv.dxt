@@ -4684,25 +4684,25 @@
 # END DEMO 2.0 ADDITIONS
 
 @shopmenu
-"`$0`G"&00000bfe
+"`$0` ORO"&00000bfe
 "`$0`/`$1`"&00000bff
-"Buy"&00000c00
-"Sell"&00000c01
-"Talk"&00000c02
-"Exit"&00000c03
-"Buy it for\n`$0`G ?"&00000c04
-"Yes"&00000c05
+"Comprar"&00000c00
+"Vender"&00000c01
+"Hablar"&00000c02
+"Salir"&00000c03
+"¿Comprar por\n`$0` ORO?"&00000c04
+"Sí"&00000c05
 "No"&00000c06
-"Donate"&000015ec
-"Donation:"&000015ed
-"Donate"&000015ee
-"Back"&000015ef
-"`$0`G"&000015f0
-"`$0`G"&000015f1
-"Take"&000015f2
-"Steal"&000015f3
-"Read"&000015f4
-"Stare"&000015f5
+"Donar"&000015ec
+"Donación:"&000015ed
+"Donar"&000015ee
+"Atrás"&000015ef
+"`$0` ORO"&000015f0
+"`$0` ORO"&000015f1
+"Tomar"&000015f2
+"Robar"&000015f3
+"Leer"&000015f4
+"Mirar"&000015f5
 
 @credits
 "DIRECTED BY"&00000c07
