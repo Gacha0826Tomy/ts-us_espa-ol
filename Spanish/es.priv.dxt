@@ -4011,7 +4011,7 @@
 "* Escuché que solía ser un laberinto todo raro para moverse por ahí."&00000abb
 # First interaction
 "* Oh, viejo, espero que de verdad esté recibiendo bien el correo de todo el mundo..."&00000abc
-"* ¡Es mi primer día de trabajo y quiero tener una empezar mi carrera con notas altas!"&00000abd
+"* ¡Es mi primer día de trabajo y quiero empezar mi carrera con notas altas!"&00000abd
 "* Escuché que si eres lo suficientemente bueno. `%%%`* ¡Podrías entregar los correos personales a la reina!"&00000abe
 "* \\.\\.\\. Aunque, aparentemente ella nunca los lee."&00001593
 
@@ -4033,7 +4033,7 @@
 @ruinc.int.grillbys.flara
 # DEMO 2.0 ADDITION - When searching for water for plant quest
 # Second interaction
-"* (Sólo... sólo no le digas a nadie que dije que es gratis, ¿okay\\?)"&00001595
+"* (Solo... solo no le digas a nadie que dije que es gratis, ¿okay\\?)"&00001595
 # First interaction
 "* ¿Qué pasa, niño? * ¿Estás buscando algo de agua?"&00001596
 "* ¡Puedes pedir un vaso en la barra!"&00001597
@@ -4047,7 +4047,7 @@
 "* \\.\\.\\. ¿Un robo a monederos? Hm."&00001599
 "* Recuerdo ver a una señora sentada con un topo."&00000acd
 "* Ya sabes, el que usualmente anda por ahí casi al final de la ciudad."&00000ace
-"* ¿Tal vez él puede saber un par de cosas...?"&00000acf
+"* ¿Tal vez él sepa un par de cosas...?"&00000acf
 # Second interaction
 "* Sabes, hubo una vez..."&00000ad0
 "* ¿En la que atrapamos a Aaxel robando la grasa de la comida de la gente?"&00000ad1
@@ -4073,7 +4073,7 @@
 "* ¡Bueno, bueno, bueno! * ¡Maravillado de conocerte, lindura!"&00000ade
 "* No esperaba que nuestro pequeño encuentro fuera tan pronto."&00000adf
 "* Sabes, he tratado de crear nuevo material..."&00000ae0
-"* \\.\\.\\. pero lo que he creado es un Bloqueo de Artista."&0000159b
+"* \\.\\.\\. pero lo que he creado es un Bloqueo Creativo."&0000159b
 "* Y antes de que preguntes, no, no puedo superarlo tan fácil."&00000ae2
 "* (Suspiro)... ¡si tan solo pudiera tener una chispa de inspiración!"&00000ae3
 "* ¡Para encender mi fogata creativa una vez más!"&00000ae4
@@ -4088,7 +4088,7 @@
 # Third
 "* No te lo gastes todo en un mismo lugar, ¿entiendes?"&00000ae8
 "* Sé inteligente con tus ahorros y todo eso."&00000ae9
-"* Eso es lo que mi apa' me enseñó."&00000aea
+"* Eso es lo que mi apá me enseñó."&00000aea
 # Not wearing Cowboy Hat
 # Second interaction
 "* \\.\\.\\. Lo siento, niño. Sólo hablo con forajidos y tú pareces un sheriff."&0000159c
@@ -4106,7 +4106,7 @@
 # First interaction
 "* ¡R-rribbit, rrribbit! * (¡Ah! Eres... tú... Ya veo.)"&000015a2
 "* (Yo, um... mis amigos y yo nos disculpamos por el problema.)"&000015a3
-"* (Nosotros no queriamos romper nuestra tapadera, pero...)"&000015a4
+"* (Nosotros no queríamos romper nuestra tapadera, pero...)"&000015a4
 "* (\\.\\.\\. b-bueno, dejemos el pasado atrás.)"&000015a5
 "* Rrribbit."&000015a6
 # END DEMO 2.0 ADDITION
@@ -4159,7 +4159,7 @@
 "* (¿Tomarlo\\?)"&00000aff
 "Sí"&00000b00
 "No"&00000b01
-"* (Es un ambiguo vaso medio lleno o medio vacío de agua.)"&00000b02
+"* (Es un ambiguo vaso de agua medio lleno o medio vacío.)"&00000b02
 
 @ruinc.int.flowerking.echoflower
 "* \\.\\.\\. Okay, Sr\\. Dreemurr. Puede contar conmigo`@`. ; )"&000015ad
@@ -4183,502 +4183,502 @@
 "`#`* Tú nunca me `@`abandonarías... ; )"&00000b0c
 
 @ruinc.int.flowerking.echoflower_mode0
-"* \\.\\.\\. Thanks`@`. ; )"&000015b5
+"* \\.\\.\\. Gracias`@`. ; )"&000015b5
 
 @ruinc.int.flowerking.echoflower_mode1
-"* Just get OUT of here already`@`! ; )"&00000b0e
+"* ¡Sólo LÁRGATE ya de aquí`@`! ; )"&00000b0e
 
 @ruinc.int.flowerking.echoflower_mode2
-"* ...Just... go gloat somewhere else`@`! ; )"&00000b0f
+"* ...Sólo... ¡ve a regodearte en otro lado`@`! ; )"&00000b0f
 
 @ruinc.int.flowerking.echoflower_mode3
-"* I just wanna get some flowers, but nobody's running the store."&00000b10
+"* Sólo quiero comprar algunas flores, pero nadie está atendiendo la tienda."&00000b10
 
 @ruinc.int.flowerking.echoflower_mode4
-"* What's that guy even doing...?"&00000b11
+"* ¿Qué es lo que está haciendo ese tipo...?"&00000b11
 
 @ruinc.int.flowerking.echoflower_mode5
-"* I want the Golden Echo Flower, but this guy's holding out on me."&00000b12
+"* Quiero la Flor Eco Dorada, pero este tipo me lo impide."&00000b12
 
 @ruinc.int.flowerking.echoflower_mode6
-"* I've SEEN photos of it on the Undernet, so it MUST be real!"&00000b13
+"* ¡He VISTO fotos de ella en el Undernet, así que DEBE de ser real!"&00000b13
 
 @ruinc.int.flowerking.sprout
-"* This little sprout has no future."&00000b14
-"* (This little sprout could use some water...)"&00000b15
-"* (Search for some water to give it\\?)"&00000b16
-"Yes"&00000b17
+"* Este pequeño retoño no tiene futuro."&00000b14
+"* (Este pequeño retoño necesita algo de agua...)"&00000b15
+"* (¿Buscar algo de agua para el retoño\\?)"&00000b16
+"Sí"&00000b17
 "No"&00000b18
-"* (I need to find some water to give to this sprout...)"&00000b19
+"* (Necesito encontrar algo de agua para este pequeño retoño...)"&00000b19
 # DEMO 2.0 ADDITION
-"* (Now, where would one find a glass of water...?)"&000015b6
+"* (¿Dónde podría encontrar un vaso de agua...?)"&000015b6
 # END DEMO 2.0 ADDITION
-"* (Give the sprout some water\\?)"&00000b1a
-"Yes"&00000b1b
+"* (¿Darle el agua al retoño\\?)"&00000b1a
+"Sí"&00000b1b
 "No"&00000b1c
 "* (..........)"&00000b1d
-"* (The plant just handed me 5G.)"&00000b1e
-"* (I don't want to think about what happened.)"&00000b1f
+"* (La planta me acaba de dar 5 ORO.)"&00000b1e
+"* (No quiero pensar en lo que acaba de pasar.)"&00000b1f
 
 @ruinc.int.flowerking.chalkboard
-"* \"Thank you for your continued donations, Mr\\. Dreemurr\\!\""&00000b20
+"* \"¡Gracias por sus continuas donaciones, Sr\\. Dreemurr\\!\""&00000b20
 
 @ruinc.int.flowerking.sale
-"* \"All flowers 50% off\\!\""&00000b21
+"* \"¡TODAS las flores a mitad de precio\\!\""&00000b21
 
 @ruinc.int.flowerking.wheelbarrow
-"* A wheelbarrow, full of dirt."&00000b22
-"* \\.\\.\\. No, just dirt. * Thank goodness."&000015b7
-"* I hope that's not manure..."&00000b24
+"* Una carretilla llena de tierra."&00000b22
+"* \\.\\.\\. No, sólo tierra. * Gracias a Dios."&000015b7
+"* Espero que eso no sea estiércol..."&00000b24
 
 @ruinc.int.flowerking.aaxel
-"* You... you watered the plant`@`? ; )"&00000b25
-"* The one I kept forgetting to`@`? ; )"&00000b26
+"* Tú... ¿tú regaste esa planta`@`? ; )"&00000b25
+"* ¿La que siempre sigo olvidando`@`? ; )"&00000b26
 "* ..."&00000b27
-"* \\.\\.\\. Thanks`@`. ; )"&000015b8
+"* \\.\\.\\. Gracias`@`. ; )"&000015b8
 # Second interaction
 # DEMO 2.0 ADDITION - fought to low HP
-"* If you don't leave me alone, I'll..."&000015b9
-"* I'll call... ASGORE`@`! ; )"&000015ba
-"* A-and then YOU'LL be doing community service, too`@`! ; )"&000015bb
+"* Si no me dejas solo, yo..."&000015b9
+"* ¡Llamaré a... ASGORE`@`! ; )"&000015ba
+"* ¡Y e-entonces TÚ también harás servicio comunitario`@`!  ; )"&000015bb
 # END DEMO 2.0 ADDITION
-"* No, I don't feel bad about my actions`@`! ; )"&00000b29
-"* No, I'm not lying to look cool`@`! ; )"&00000b2a
-"* No, I'm not telling ASGORE I'm sorry and having tea with him... AGAIN`@`...! ; )"&00000b2b
-"* Just get OUT of here already`@`! ; )"&00000b2c
+"* No, ¡no me siento mal por mis acciones`@`! ; )"&00000b29
+"* No, ¡no miento para parecer genial`@`! ; )"&00000b2a
+"* No, no le estoy diciendo a ASGORE que lo siento y que tomaré té con él... `%%%`* ¡OTRA VEZ`@`...! ; )"&00000b2b
+"* ¡Sólo LÁRGATE ya de aquí`@`! ; )"&00000b2c
 # First interaction
 # DEMO 2.0 ADDITION - fought to low HP
 "* ..."&000015bc
-"* \\.\\.\\. W-what do YOU want`@`? ; )"&000015bd
-"`#`* Come to b-beat me up `i`again`@`? ; )"&000015be
-"* Well, uh... I'm BUSY right now! With my JOB`@`! ; )"&000015bf
-"* So... g-get out of here`@`! ; )"&000015c0
+"* \\.\\.\\. ¿Q-qué QUIERES`@`? ; )"&000015bd
+"`#`* ¿Vienes a g-golpearme `i`otra vez`@`? ; )"&000015be
+"* Bueno, eh... ¡Ahora estoy OCUPADO! ¡Con mi TRABAJO`@`! ; )"&000015bf
+"* Así que... s-sal de aquí`@`! ; )"&000015c0
 # END DEMO 2.0 ADDITION
 "* ..."&00000b2d
-"* \\.\\.\\. Yeah, it's me`@`. ; )"&00000b2e
-"* So what if I work here, huh`@`? ; )"&00000b2f
-"* So what if it's for community service, huh`@`? ; )"&00000b30
-"* So what if I like this... this... FLORAL-PATTERNED SHIRT, HUH`@`?! ; )"&00000b31
-"* ...Just... go gloat somewhere else`@`! ; )"&00000b32
+"* \\.\\.\\. Sí, soy yo`@`. ; )"&00000b2e
+"* ¿Y qué si trabajo aquí, eh`@`?  ; )"&00000b2f
+"* ¿Y qué si es por servicio comunitario, eh`@`? ; )"&00000b30
+"* ¿Y qué si me gusta esta... esta... CAMISA CON FLORES ESTAMPADAS, EH`@`?! ; )"&00000b31
+"* ...Sólo... ¡ve a regodearte en otro lado`@`! ; )"&00000b32
 
 @ruinc.int.flowerking.bug
 # Pre-Greasers battle
 # DEMO 2.0 ADDITION - When searching for water
 # Second interaction
-"* If that plant's so thirsty, it can get a JOB!"&000015c1
-"* at      Grillby's"&000015c2
+"* ¡Si esa planta tiene mucha sed, puede conseguirse un TRABAJO!"&000015c1
+"* en      Grillby's"&000015c2
 # First interaction
-"* Huh? You wanna water that plant?"&000015c3
-"* Well, I don't see any watering cans... * Or glasses."&000015c4
+"* ¿Eh? ¿Quieres regar esa planta?"&000015c3
+"* Bueno, no veo ninguna regadera por aquí... * O vasos."&000015c4
 # END DEMO 2.0 ADDITION
 # Second interaction
-"* What's that guy even doing...?"&00000b33
+"* ¿Qué es lo que está haciendo ese tipo...?"&00000b33
 # First interaction
-"* Man, the service here suuuuucks."&00000b34
-"* I just wanna get some flowers, but nobody's running the store."&00000b35
+"* Macho, el servicio aquí apeeeeesta."&00000b34
+"* Sólo quiero comprar algunas flores, pero nadie está atendiendo la tienda."&00000b35
 # Post-Greasers battle
 # Second interaction
-"* Seriously, you wouldn't believe this guy!"&00000b36
-"* Says \"that's not a real flower\"!"&00000b37
-"* I've SEEN photos of it on the Undernet, so it MUST be real!"&00000b38
+"* ¡De verdad, no le creas a este tipo!"&00000b36
+"* Dice \"¡esa no es una flor real\!""&00000b37
+"* ¡He VISTO fotos de ella en el Undernet, así que DEBE de ser real!"&00000b38
 # First interaction
-"* FINALLY, some service!"&00000b39
-"* Problem is, I still can't get what I want!"&00000b3a
-"* I want the Golden Echo Flower, but this guy's holding out on me."&00000b3b
+"* ¡POR FIN, ya están atendiendo!"&00000b39
+"* ¡El problema es que aún no puedo conseguir lo que quiero!"&00000b3a
+"* Quiero la Flor Eco Dorada, pero este tipo me lo impide."&00000b3b
 
 @ruinc.int.mettalate
-"* Pick up the pace, pal! * We're already late to Mettalot's show!"&00000b3c
-"* Gimme a break, I got four feet and one leg!"&00000b3d
+"* ¡Tienes que apurarte, amigo! * ¡El show de Mettalot ya debió de haber comenzado!"&00000b3c
+"* ¡Dame un descanso, tengo cuatro pies y una pierna!"&00000b3d
 
 @ruinc.int.littledude
-"* Hey... have you ever experienced loss? * I have."&00000b3e
-"* I lost my lucky star. It's my most prized possession."&00000b3f
-"* It fell in the water, and it got swept into the sewer."&00000b40
+"* Oye... ¿has pasado por alguna pérdida? * Yo sí."&00000b3e
+"* Perdí a mi estrella de la suerte. Era mi posesión más preciada."&00000b3f
+"* Se cayó al agua y fue arrastrada a las alcantarillas."&00000b40
 "* ..."&00000b41
-"* Hey... you seem tough... and I have 9G I can offer you..."&00000b42
-"* Could you go find it?"&00000b43
-"Yes"&00000b44
+"* Oye... pareces fuerte... y yo tengo 9 ORO que puedo ofrecerte..."&00000b42
+"* ¿Podrías ir a encontrarla?"&00000b43
+"Sí"&00000b44
 "No"&00000b45
-"* There's a manhole by the shops that leads to the sewer."&00000b46
-"* Good luck. I heard there's a monster down there."&00000b47
-"* I wonder why..."&00000b48
-"* Okay."&00000b49
-"* Where does everything go when it goes into the sewers, anyways...?"&00000b4a
-"* Wow...! You found my star!"&00000b4b
-"* I thought I'd never get this back."&00000b4c
-"* Thank you."&00000b4d
-"* Thank you..."&00000b4e
+"* Hay una tapa de alcantarilla por las tiendas que llevan a las alcantarillas."&00000b46
+"* Buena suerte. He oído que hay un monstruo ahí abajo."&00000b47
+"* Me pregunto por qué..."&00000b48
+"* Está bien."&00000b49
+"* ¿A dónde va todo cuando entra por las alcantarillas de todas formas...?"&00000b4a
+"* ¡Wow...! ¡Encontraste mi estrella!"&00000b4b
+"* Pensé que nunca la volvería a ver."&00000b4c
+"* Gracias."&00000b4d
+"* Gracias..."&00000b4e
 
 @ruinc.int.water_limit
-"* (I got too thirsty and drank the water...)"&00000b4f
+"* (Me dio mucha sed y bebí el agua...)"&00000b4f
 
 @ruinc.int.invis1
-"* Look, I know what this looks like...!"&00000b50
-"* A-actually, now that I think about it, I don't."&00000b51
-"* I just kinda woke up here."&00000b52
+"* Mira, ¡sé cómo se ve esto...!"&00000b50
+"* En r-realidad, ahora que lo pienso, no sé."&00000b51
+"* Tipo me acabo de despertar aquí."&00000b52
 
 @ruinc.int.minimart.icecap
 # Ruthless
-"* (Frozen shut.)"&00000b53
+"* (Congelado.)"&00000b53
 # Normal
-"* (\\.\\.\\. The door has frozen shut.)"&000015c5
+"* (\\.\\.\\. La puerta se ha congelado.)"&000015c5
 # 0
-"* Gyah! * Uh, occupied?!"&00000b55
+"* ¡Gyah! * ¡¿Uh, ocupado?!"&00000b55
 # 1
-"* Er, t-this freezer's taken!"&00000b56
+"* Er, ¡e-este congelador está ocupado!"&00000b56
 # 2
-"* Gyah! I always wanted attention, but not like THIS..."&00000b57
+"* ¡Gyah! Siempre quise atención, pero no como ESTA..."&00000b57
 # 3
-"* Hey, cut it out!"&00000b58
+"* ¡Oye, ya, para!"&00000b58
 # 4
-"* Can't a guy fix his magnificent hat in peace?!"&00000b59
+"* ¡¿No puede un tipo arreglar su magnífico sombrero en paz?!"&00000b59
 # 5
-"* This is getting ridiculous..."&00000b5a
+"* Esto se está volviendo ridículo..."&00000b5a
 # 6
-"* Please, just chill out and leave me be!"&00000b5b
+"* Por favor, ¡sólo vete y déjame tranquilo!"&00000b5b
 # 7
-"* Just... give me a minute!"&00000b5c
+"* Sólo... ¡dame un minuto!"&00000b5c
 # 8
-"* If you don't stop this, I'll...!"&00000b5d
-"* I'll come up with something, I'm sure."&00000b5e
+"* ¡Si no te detienes, yo...!"&00000b5d
+"* Se me ocurrirá algo, estoy seguro."&00000b5e
 # 9
-"* I beg of you! * I IMPLORE YOU! * Leave me be!"&00000b5f
+"* ¡Te ruego! * ¡TE IMPLORO! * ¡Déjame tranquilo!"&00000b5f
 # 10
-"* Look, I put the Ice-E bars in the freezer next to me."&00000b60
-"* I didn't steal them, or anything!"&00000b61
+"* Mira, puse las barras de Ice-E en el congelador de al lado."&00000b60
+"* ¡No las robé o cómo sea!"&00000b61
 # 11
-"* Just!! Give me a few moments of privacy!! PLEASE!!!!!"&00000b62
+"* ¡¡Sólo!! ¡¡Dame unos minutos de privacidad!! ¡¡¡¡¡POR FAVOR!!!!!"&00000b62
 
 @ruinc.int.minimart.woodcapguy
-"* ...Then again, have you seen the newspaper's latest drivel?"&00000b63
-"* No wonder people want comics instead!"&00000b64
-"* Bah, I can't believe this place."&00000b65
-"* They used to sell newspapers on this rack, here..."&00000b66
-"* But now, it's home to those trashy \"Cross-Bones\" comics!"&00000b67
-"`#`* What kinda place is this, `i`where some smiley goofball is `i`more important than THE NEWS?!"&00000b68
+"* ...Por otra parte, ¿has visto las últimas idioteces del periódico?"&00000b63
+"* ¡No me extraña que la gente prefiera a los cómics ahora!"&00000b64
+"* Bah, qué asco de sitio."&00000b65
+"* Solían vender periódicos en el estante de ahí..."&00000b66
+"* Pero ahora, ¡sólo venden esos cómics basura de un tal \"Huesos-Cruzados\"!"&00000b67
+"* ¿Qué clase de lugar es este? `%%%`* ¡Donde algún tonto sonriente es más importante que LAS NOTICIAS!"&00000b68
 
 @ruinc.int.minimart.squid
 # First interaction
-"`#`* Hehe, welcome, to the Mini-Mart. #* Do you see any items that `i`interest you?"&00000b69
-"* We have many items for sale, over there."&00000b6a
+"`#`* Jeje, bienvenido al Mini Super. #* ¿Ves algún objeto que sea de tu `i`interés?"&00000b69
+"* Tenemos muchos objetos a la venta en esos estantes."&00000b6a
 # Second interaction
-"* If you, ah, see any items you like... you can just bring them over."&00000b6b
-"* I can appraise the total amount when you're satisfied with your, heh, haul."&00000b6c
+"* Si tú, ah, ves algún objeto que te guste... puedes traerlo a aquí."&00000b6b
+"* Puedo estimar el monto total cuando estés satisfecho con tu, eh, recorrido."&00000b6c
 # 0
-"* Jelly Juice! That's my personal blend."&00000b6d
-"* Works a treat when you're down and out."&00000b6e
+"* ¡Jugo Gelatina! Tiene mi receta personal."&00000b6d
+"* Funciona de maravilla cuando estás hecho polvo."&00000b6e
 # 1
-"* Sea Tea, ah, yes. * My own family recipe!"&00000b6f
-"* Lasts a good long while."&00000b70
+"* ¡Té de Mar, ah, sí. * ¡Es receta familiar!"&00000b6f
+"* Dura un buen rato."&00000b70
 # 2
-"* I see, Muu Milk... going for an interview later?"&00000b71
-"* This really helps with the nerves."&00000b72
+"* Ya veo, Cremuu de Leche... ¿vas a una entrevista más tarde?"&00000b71
+"* Eso ayuda mucho con los nervios."&00000b72
 # 3
-"* Cute Coffee, eh? Nice."&00000b73
-"* \"Crack a smile, so they won't crack you\\!\""&00000b74
-"* Strange motto, they have."&00000b75
+"* ¿Lindo Café, eh? Bien."&00000b73
+"* \"¡Sonríe, así ellos no te obligarán a sonreír\\!\""&00000b74
+"* Ellos tienen un lema tan raro."&00000b75
 # 4
-"* Ooh, so you're getting a `$0` and a `$1`?"&00000b76
+"* Ooh, ¿así que te vas a llevar un `$0` y un `$1`?"&00000b76
 # 5
-"* So that'll be a `$0`, a `$1`, and a `$2`?"&00000b77
+"* ¿Entonces será un `$0`, un `$1`, y un `$2`?"&00000b77
 # 6
-"* Ah! You'll be getting..."&00000b78
-"* ...A `$0`, a `$1`, a `$2`, and a `$3`?"&00000b79
-"* (Purchase\\?)`p1` * (Cost\\: `$0`G)"&00000b7a
-"Yes"&00000b7b
+"* ¡Ah! Te vas a llevar..."&00000b78
+"* ...¿Un `$0`, un `$1`, un `$2`, y un `$3`?"&00000b79
+"* (¿Comprar\\?)`p1` * (Costo\\: `$0` ORO)"&00000b7a
+"Sí"&00000b7b
 "No"&00000b7c
-"* Sorry, but you don't got enough GOLD."&00000b7d
-"* And unless you want to try for a, heh, discount..."&00000b7e
-"* You're gonna have to put those back."&00000b7f
-"* Heh, it's been... a pleasure, doing business with you."&00000b80
-"* Hmm... seems you don't got any inventory space left."&00000b81
-"* You'll have to put those back where you got 'em."&00000b82
-"* Very well. I await your eventual purchase."&00000b83
+"* Lo siento, pero no tienes suficiente ORO."&00000b7d
+"* Y a menos que quieras intentar conseguir un, je, descuento..."&00000b7e
+"* Vas a tener que devolver esos objetos a su sitio."&00000b7f
+"* Je, ha sido... un placer hacer negocios contigo."&00000b80
+"* Hmm... parece que no tienes más espacio de inventario."&00000b81
+"* Tendrás que devolver esos objetos de donde los agarraste."&00000b82
+"* Excelente. Esperaré tu compra eventual."&00000b83
 
 @ruinc.int.minimart.dontpay
-"* Hey, what do you think you're doing!?"&00000b84
-"* Put those back before you leave!"&00000b85
+"* Oye, ¿¡qué crees que estás haciendo!?"&00000b84
+"* ¡Devuelve esos antes de que te vayas!"&00000b85
 
 @ruinc.int.minimart.shelf
 # Ruthless
-"* There's a lone `$0`. * Take it?"&00000b86
-"Yes"&00000b87
+"* Hay un `$0` solitario. * ¿Tomarlo?"&00000b86
+"Sí"&00000b87
 "No"&00000b88
-"* Took the `$0`."&00000b89
-"* No space."&00000b8a
-"* The shelf is empty."&00000b8b
+"* Tomaste el `$0`."&00000b89
+"* Sin espacio."&00000b8a
+"* El estante está vacío."&00000b8b
 # Normal
 # Taking too much
-"* I may be getting ahead of myself."&00000b8c
+"* Creo que no puedo aguantar tanto."&00000b8c
 # Buying
-"* Costs `$2`G. Take one?"&00000b8d
-"Yes"&00000b8e
+"* Cuesta `$2` ORO. ¿Tomar uno?"&00000b8d
+"Sí"&00000b8e
 "No"&00000b8f
 
 @ruinc.int.minimart.freezer1
 # Ruthless
-"* It's frozen shut."&00000b90
+"* Congelado."&00000b90
 # Normal
-"* This freezer has popsicles!"&00000b91
-"* They come in: \"Libel Lemon-Lime\\,\"`p1` \"Getaway Tropical Punch...\""&00000b92
-"* \"Embezzlement Berry Blast\\,\"`p1` and \"A Murder in Orange.\""&00000b93
-"* All part of the \"Criminally Tasty Popsicle Pack\\!\""&00000b94
-"* ...I'll pass."&00000b95
+"* ¡Este congelador tiene paletas!"&00000b91
+"* Vienen en: \"Libelo de Lima-Limón\\,\"`p1` \"Ponche Tropical de Escape...\""&00000b92
+"* \"Fraude de Explosión de Bayas\\,\"`p1` y \"Un Asesinato en Naranja.\""&00000b93
+"* ¡Todo parte del \"Criminalmente Delicioso Paquete de Paletas\\\"!"&00000b94
+"* ... Paso."&00000b95
 
 @ruinc.int.minimart.freezer2
 # Ruthless
-"* It's frozen shut."&00000b96
+"* Congelado."&00000b96
 # Normal
-"* This freezer seems to be stocked with packages..."&00000b97
-"* Frozen pizzas, frozen steaks, frozen TV dinners, frozen TVs..."&00000b98
-"* A fine selection, to be sure."&00000b99
+"* Este congelador parece estar abastecido con paquetes de..."&00000b97
+"* Pizzas congeladas, filetes congelados, almuerzos TV congelados, TVs congeladas..."&00000b98
+"* Sofisticadamente, una selección fina."&00000b99
 
 @ruinc.int.minimart.freezer3
 # Ruthless
-"* It's frozen shut."&00000b9a
+"* Congelado."&00000b9a
 # Normal
-"* \\.\\.\\. It's just a slab of ice with a door handle jammed into it."&000015c6
+"* \\.\\.\\. Es sólo una losa de hielo con una manija atascada en ella."&000015c6
 
 @ruinc.int.minimart.freezer5
 # Ruthless
-"* It's frozen shut."&00000b9c
+"* Congelado."&00000b9c
 # Special case for Ice Cap
-"* True to his word, Ice Cap did, in fact, put the Ice-E bars in this freezer."&00000b9d
+"* Es verdad lo que dice. `%%%`* Ice Cap, en efecto, puso las barras de Ice-E en este congelador."&00000b9d
 # Normal
-"* It's filled to the brim with \"Ice-E\" bars."&00000b9e
-"* I'd take one... but it's frozen shut."&00000b9f
+"* Está lleno hasta el tope con barras de \"Ice-E\"."&00000b9e
+"* Tomaría una... pero el congelador está congelado."&00000b9f
 
 @ruinc.int.minimart.freezer6
 # Ruthless
-"* It's frozen shut."&00000ba0
+"* Congelado."&00000ba0
 # Normal
-"* This one in particular feels uncomfortably close to the cash register."&00000ba1
+"* Este en particular se siente incómodamente cerca de la caja registradora."&00000ba1
 
 @ruinc.int.minimart.comics
 # Ruthless
-"* (Nothing but garbage.)"&00000ba2
+"* (Nada más que basura.)"&00000ba2
 # Second interaction
-"* (The same smiling skeleton stares back at me.)"&00000ba3
+"* (El mismo esqueleto sonriente me mira de vuelta.)"&00000ba3
 # First interaction
-"`#`* (The rack is filled with `i`comic books about \"Crossbones\\,\"`p1` `i`a skeleton superhero.)"&00000ba4
-"* (Something underneath it catches my eye...)"&00000ba5
-"* (Oh! It's a lone, torn page.)"&00000ba6
-"`#`* Oh, yes, it appears that `i`someone was... dissatisfied, `i`with this issue of Crossbones."&00000ba7
-"* Something about how it became less and less about the \"cool merchandise.\""&00000ba8
-"* Feel free to take that page and keep it for yourself."&00000ba9
-"* It would only end up in the trash, anyways."&00000baa
-"* (I got a Crossbones Comic Page\\!)"&00000bab
+"`#`* (El estante está lleno con `i`cómics sobre \"HuesosCruzados\\\",`p1` `i`un superhéroe esqueleto.)"&00000ba4
+"* (Algo debajo de eso llama mi atención...)"&00000ba5
+"* (¡Oh! Es una solitaria y rasgada página.)"&00000ba6
+"`#`* Oh, sí, parece que alguien `i`estaba... insatisfecho con `i`este número de HuesosCruzados."&00000ba7
+"* Algo sobre cómo se trataba menos sobre la \"mercancía genial\"."&00000ba8
+"* Siéntete libre de tomar esa página y quedártela para ti."&00000ba9
+"* Iba a terminar en la basura de todas formas."&00000baa
+"* (¡Obtuve una Página del Cómic de HuesosCruzados\\!)"&00000bab
 
 @ruinc.int.minimart.bathroom
 # Ruthless
-"* (It's a bathroom.)"&00000bac
+"* (Es un baño.)"&00000bac
 # Second interaction
 # (note: bathrooms, save for inside Asgore's house, are for baths only. Unsure if this translates very well...)
-"* Huh? Never heard of a BATH room before?"&00000bad
-"* What ELSE would they be used for?!"&00000bae
+"* ¿Eh? ¿Nunca has oído de una BAÑERA antes?"&00000bad
+"* ¡¿Para qué MÁS se usaría una?!"&00000bae
 # First interaction
-"* Hey! Wait your turn! * I'm getting squeaky CLEAN!"&00000baf
+"* ¡Oye! ¡Espera tu turno! * ¡Me estoy LIMPIANDO aquí!"&00000baf
 
 @ruinc.int.newspaperoffice.oldcomputer
 # Ruthless
-"* A computer. * Too bulky to be useful."&00000bb0
+"* Una computadora. * Demasiado pesada para ser útil."&00000bb0
 # Second interaction
-"* It requires a password..."&00000bb1
-"* \\.\\.\\. which, unfortunately for me, isn't \"password.\" Drat."&000015c7
+"* Se necesita una contraseña..."&00000bb1
+"* \\.\\.\\. la cual, por desgracia para mí, no es \"contraseña\". Oh rayos..."&000015c7
 # First interaction
-"* A very old-looking computer."&00000bb3
-"* It seems like it can be folded up, and carried like a suitcase..."&00000bb4
-"* \\.\\.\\. but it's much too heavy for me."&000015c8
+"* Una computadora que se ve muy vieja."&00000bb3
+"* Parece que puede ser doblada y llevada como una maleta..."&00000bb4
+"* \\.\\.\\. pero es muy pesada para mí."&000015c8
 
 @ruinc.int.newspaperoffice.typetl
-"* A typewriter. Looks like an older model."&00000bb6
+"* Una máquina de escribir. Parece ser un modelo viejo."&00000bb6
 
 @ruinc.int.newspaperoffice.typetr
-"* A typewriter. Has seen better days."&00000bb7
+"* Una máquina de escribir. Ha visto días mejores."&00000bb7
 
 @ruinc.int.newspaperoffice.typebl
-"* A typewriter. There's some ink bleeding through the page."&00000bb8
-"* If I squint my eyes, and read backwards, I can just barely make out..."&00000bb9
-"* \"The\""&00000bba
+"* Una máquina de escribir. Hay algo de tinta chorreando por la página."&00000bb8
+"* Si entrecierro mis ojos, y leo al réves, con esfuerzo puedo distingir..."&00000bb9
+"* \"El\""&00000bba
 
 @ruinc.int.newspaperoffice.typebr
-"* A typewriter. Looks like a newer model."&00000bbb
+"* Una máquina de escribir. Parece ser un modelo nuevo."&00000bbb
 
 @ruinc.int.newspaperoffice.typeg
-"* A typewriter."&00000bbc
+"* Una máquina de escribir."&00000bbc
 
 @ruinc.int.newspaperoffice.door
 # Ruthless
-"* A door. It's locked. * Nothing worth breaking in for."&00000bbd
+"* Una puerta. Está cerrada. * No vale la pena entrar a la fuerza."&00000bbd
 # DEMO 2.0 ADDITIONS (post-Mettalot, second/first)
-"* The sight of such posters... it would make Mettalot's day."&000015c9
-"* There's a stack of posters in this room, advertising Mettalot's next show."&000015ca
-"* It seems the printing machines have gotten more use than usual."&000015cb
+"* Este tipo de posters... alegrarían el día de Mettalot."&000015c9
+"* Hay una pila de posters en esta habitación. `%%%`* Promocionando el siguiente show de Mettalot."&000015ca
+"* Parece que las impresoras se han usado más de lo habitual."&000015cb
 # END DEMO 2.0 ADDITIONS
 # Second interaction
-"* The sight of such terrifyingly complex machines..."&00000bbe
-"* It would break the minds of lesser beings."&00000bbf
+"* La vista de máquinas espantosamente complejas..."&00000bbe
+"* Rompería la mente de seres inferiores."&00000bbf
 # First interaction
-"* Through the window, there's a lot of complicated machinery."&00000bc0
-"* Lots of gears, conveyor belts, and stamping mechanisms..."&00000bc1
-"* Though, they don't seem to get much use."&00000bc2
+"* A través de la ventana hay un montón de maquinaria complicada."&00000bc0
+"* Un montón de engranajes, cintas transportadoras y mecanismos de estampado..."&00000bc1
+"* Aunque, parece que no las usan mucho."&00000bc2
 
 @ruinc.int.newspaperoffice.cab0
-"* This cabinet is full of files."&00000bc3
+"* Este gabinete está lleno de archivos."&00000bc3
 
 @ruinc.int.newspaperoffice.cab1
-"* This cabinet is also full of files."&00000bc4
+"* Este gabinete también está lleno de archivos."&00000bc4
 
 @ruinc.int.newspaperoffice.cab2
-"* This cabinet, unsurprisingly, is stuffed to the brim with files."&00000bc5
+"* Este gabinete, sorprendentemente, está hasta el tope con archivos."&00000bc5
 
 @ruinc.int.newspaperoffice.cabempty
-"* This cabinet... oh. * This one doesn't have any files."&00000bc6
-"* At least this one gets to sit on the soft carpet."&00000bc7
+"* Este gabinete... oh. * Este no tiene ningún archivo."&00000bc6
+"* Al menos este tiene una suave alfombra por debajo."&00000bc7
 
 @ruinc.int.newspaperoffice.cabg
-"* Useless information."&00000bc8
+"* Información inútil."&00000bc8
 
 @ruinc.int.newspaperoffice.file
 # Ruthless
-"* Useless information."&00000bc9
+"* Información inútil."&00000bc9
 # Normal
-"* This file is labeled \"Sensitive Information.\""&00000bca
-"* ...I think it squirmed a little when I touched it."&00000bcb
-"* Nope. Not doing that again."&00000bcc
+"* Este archivo está etiquetado como \"Información Sensible\"."&00000bca
+"* ...Creo que se retorció un poco cuando lo toqué. `%%%`* `p3`.`p4`.`p5`. `%%%``e1`* ¡QUÉ VOID! "&00000bcb
+"* Nop. No haré eso otra vez."&00000bcc
 "* Nah."&00000bcd
 "* No."&00000bce
 "* Nuh-uh."&00000bcf
-"* Absolutely not."&00000bd0
+"* Ni aunque me paguen."&00000bd0
 
 @ruinc.int.newspaperoffice.chair
 # Ruthless
-"* A swivel chair."&00000bd1
+"* Una silla giratoria."&00000bd1
 # Normal
-"* A swivel chair with wheels for moving around."&00000bd2
-"* I wonder if I could make it out by rolling on one of these..."&00000bd3
-"* \\.\\.\\. Nah. I'd slip up on that banana."&000015cc
+"* Una silla giratoria con ruedas para moverse por ahí."&00000bd2
+"* Me pregunto si podría soportar el andar en una de estas..."&00000bd3
+"* \\.\\.\\. Nah. Me resbalaría con esa banana."&000015cc
 
 @ruinc.int.newspaperoffice.journalist
 # Asgore dead (second)
-"* Wait, you're... serious? * \\.\\.\\. Oh no."&000015cd
+"* Espera, ¿lo dices... en serio? * \\.\\.\\. Oh no."&000015cd
 # Asgore dead (first)
-"* \\.\\.\\. What? ASGORE's dead?"&000015ce
-"* Haha... I may be bad at my job, but that's a falsehood even I wouldn't stoop to."&00000bd7
+"* \\.\\.\\. ¿Qué? ¿ASGORE está muerto?"&000015ce
+"* Jaja... Puede que sea malo en mi trabajo, pero ni yo me creería esa falsedad."&00000bd7
 # Second interaction
-"* Haha... * Having a job you hate is just a family tradition!"&00000bd8
+"* Jaja... * ¡Tener un trabajo que odias es una tradición familiar!"&00000bd8
 # First interaction
-"* I... I... I can't sell any of these papers..."&00000bd9
-"* I... I... I keep trying to, but nobody... finds them interesting..."&00000bda
-"* Everyone says they belong in the trash..."&00000bdb
+"* Yo... Yo... No puedo vender ninguno de estos papeles..."&00000bd9
+"* Yo... Yo... Sigo intentando, pero nadie... los encuentra interesantes..."&00000bda
+"* Todos dicen que pertenecen a la basura..."&00000bdb
 
 @ruinc.int.newspaperoffice.bananaman
-"* Well, there you are!"&00000bdc
-"* I thought you'd gone and disappeared on me."&00000bdd
-"* You know, when I told you to take the trash outside..."&00000bde
-"* I didn't mean take it ON VACATION!!"&00000bdf
-"* Feh... just, continue where you left off, I suppose."&00000be0
-"* Just, uh, you can start now, I suppose."&00000be1
+"* Bien, ¡ahí estás!"&00000bdc
+"* Pensé que te habías ido y que habías desaparecido."&00000bdd
+"* Sabes, cuando te dije que botaras la basura afuera..."&00000bde
+"* ¡¡No quería decir que te tomaras UNAS VACACIONES!!"&00000bdf
+"* Feh... sólo, continúa por donde lo dejaste, supongo."&00000be0
+"* Sólo, uh, puedes comenzar ahora, supongo."&00000be1
 # Before quest
-"* Egads, this room is brimming with filth...!"&00000be2
-"* ...And I'm not just talking about the man in the suit, mind you."&00000be3
-"* Do you think you could tidy this place up a bit?"&00000be4
-"* I'll pay you 7G up front, and double that amount when you finish the job."&00000be5
-"* Sound good?"&00000be6
-"Yes"&00000be7
+"* Dios mío, ¡esta habitación está rebosante de porquería...!"&00000be2
+"* ...Y no estoy hablando sólo del tipo con traje, por si te lo preguntas."&00000be3
+"* ¿Crees que podrías ordenar este lugar un poco?"&00000be4
+"* Te pagaré 7 ORO ahora y otros 7 más cuando termines el trabajo."&00000be5
+"* ¿Suena bien?"&00000be6
+"Sí"&00000be7
 "No"&00000be8
-"* Excellent! I'm sure you'll get this cleaned up in no time."&00000be9
-"* Hmh. I suppose I can get that \"Jazzboar\" fellow to do it, if he comes around."&00000bea
-"* Err, you should throw away that trash in your hands."&00000beb
+"* ¡Excelente! Estoy seguro que dejarás esto impecable en poco tiempo."&00000be9
+"* Hmh. Supongo que puedo hacer que ese tipo \"Jazzboar\" lo haga... `%%%`* Si es que viene por aquí."&00000bea
+"* Err, deberías botar esa basura con tus manos."&00000beb
 # During quest
-"* Err, there's quite a bit of trash over there."&00000bec
+"* Err, hay bastante basura por ahí."&00000bec
 # Completing quest
-"* Wonderful job!"&00000bed
-"* Hopefully my employees can make better headlines in a cleaner environment."&00000bee
-"* Here's the other half of that payment, by the by."&00000bef
-"* (I got 7G.)"&00000bf0
+"* ¡Maravilloso trabajo!"&00000bed
+"* Afortunadamente, mis empleados pueden hacer mejores titulares en un ambiente más limpio."&00000bee
+"* Por cierto, aquí está la otra mitad del pago."&00000bef
+"* (Obtuve 7 ORO.)"&00000bf0
 # After quest
-"* Ah, much better."&00000bf1
+"* Ah, mucho mejor."&00000bf1
 
 @ruinc.int.newspaperoffice.throwout
 # Throwing out, part 1
-"* (I put the trash into the can.)"&00000bf2
+"* (Puse la basura dentro del bote.)"&00000bf2
 # Part 2
-"* (I throw away more trash.)"&00000bf3
+"* (Tiré más basura.)"&00000bf3
 # Part 3
-"* (I finished throwing away the trash.)"&00000bf4
+"* (He terminado de tirar toda la basura.)"&00000bf4
 
 @ruinc.int.newspaperoffice.trashbin
 # Ruthless
-"* Just some garbage."&00000bf5
+"* Sólo es basura."&00000bf5
 # After clearing out the trash around the bin
-"* There's a sweat-soaked newspaper in this trash can."&00000bf6
-"* The only legible part reads something about \"the retired royal scientist.\""&00000bf7
+"* Hay un periódico empapado en este bote de basura."&00000bf6
+"* La única parte legible dice algo sobre \"el retiro del científico real\"."&00000bf7
 # Before clearing out the trash around the bin
-"* This waste bin is overflowing with wads of paper."&00000bf8
-"* They all seem to be rejected headlines."&00000bf9
-"* Most of them read: * \"Another Nice Day in The City of Old\\!\""&00000bfa
+"* Este cubo de basura está rebosante de fajos de papel."&00000bf8
+"* Todos parecen ser de titulares rechazados."&00000bf9
+"* La mayoría dice: * \"¡Otro Lindo Día en La Ciudad Antigua\\!\""&00000bfa
 
 @ruinc.int.newspaperoffice.trash_cannotpickup
-"* (I can't pick up any more trash right now.)"&00000bfb
-"* (I should throw it away in a trash can somewhere...)"&00000bfc
+"* (No puedo tomar más basura en este momento.)"&00000bfb
+"* (Debería tirar la que tengo en algún bote de basura que esté cerca...)"&00000bfc
 
 @ruinc.int
 # DEMO 2.0 ADDITIONS
 
 @ruinc.int.dirsign1
-"* \"North: Capital Building\"`p1` * \"West: Bridge\""&000015cf
+"`#`* \"Norte: Edificio de la Capital\"`p1` * \"Oeste: Puente\""&000015cf
 
 @ruinc.int.dirsign2
-"* \"North: Royal Village\"`p1` * \"South: Town Square\""&000015d0
+"* \"Norte: Aldea Real\"`p1` * \"Sur: Plaza de la Ciudad\""&000015d0
 
 @ruinc.int.southpath
-"* (This path is blocked.)`p1` * (I see something dark up ahead...)"&000015d1
+"* (Este camino está bloqueado.)`p1` * (Veo algo oscuro adelante...)"&000015d1
 
 @ruinc.int.flowerking.echoflower_mode7
-"* So... g-get out of here`@`! ; )"&000015d2
+"* Así que... s-sal de aquí`@`! ; )"&000015d2
 
 @ruinc.int.flowerking.echoflower_mode8
-"* A-and then YOU'LL be doing community service, too`@`! ; )"&000015d3
+"* ¡Y e-entonces TÚ también harás servicio comunitario`@`! ; )"&000015d3
 
 @ruinc.int.flowerking.echoflower_mode9
-"* Well, I don't see any watering cans... * Or glasses."&000015d4
+"* Bueno, no veo ninguna regadera por aquí... * O vasos."&000015d4
 
 @ruinc.int.flowerking.echoflower_mode10
-"* at      Grillby's"&000015d5
+"* en      Grillby's"&000015d5
 
 @ruinc.int.bridge_warning
 # Warning if Ruined Home population <= 6 and Knights killed, at bridge
-"* Felt monsters fleeing in the rooms behind me."&000015d6
+"* Siento a monstruos huyendo en las habitaciones detrás de mí."&000015d6
 
 @ruinc.int.grillbys.vegetoid
-"* Food Fact: Potatoes Are Vegetables"&000015d7
-"* Food Fact (2): Fries Are Not Vegetables"&000015d8
-"* No More Food Facts"&000015d9
+"* Dato Culinario: Las Papas Son Verduras"&000015d7
+"* Dato Culinario (2): Las Papas Fritas No Son Verduras"&000015d8
+"* No Hay Más Datos Culinarios"&000015d9
 
 @ruinc.int.grillbys.froggit
-"* Ribbit, ribbit. (Pardon me for a moment...)"&000015da
-"* (Would you be willing to speak with my friend\\?)"&000015db
-"* (They won't stop sharing \"Food Facts\" with me...)"&000015dc
+"* Ribbit, ribbit. (¿Tienes un momento...?)"&000015da
+"* (¿Serías capaz de hablar con mi amigo\\?)"&000015db
+"* (No deja de compartir \"Datos Culinarios\" conmigo...)"&000015dc
 "* Ribbit."&000015dd
-"* Ribbit, ribbit. * (It wouldn't be so bad, if what they were saying...)"&000015de
-"* (\\.\\.\\. wasn't the same two things, every time.)"&000015df
+"* Ribbit, ribbit. * (No sería tan malo, si lo que sea que dice...)"&000015de
+"* (\\.\\.\\. no fueran las mismas dos cosas todo el tiempo.)"&000015df
 "* Ribbit."&000015e0
 
 @ruinc.int.runningboots
 # Ruthless variant
-"* (Seems this was left in a hurry.)"&000015e1
-"* `cY`RUNNING BOOTS`c$` were added to `cY`KEY ITEMS`c$`."&000015e2
-"* Hold `$0` while walking to run."&000015e3
+"* (Parece que fue dejado en un apuro.)"&000015e1
+"* `cY`BOTAS CORREDORAS`c$` fueron añadidas a `cY`OBJETOS CLAVE`c$`."&000015e2
+"* Manten `$0` mientras caminas para correr."&000015e3
 # Normal variant
-"* Package from Asgore Dreemurr!"&000015e4
-"* Just who I'm looking for!"&000015e5
-"* Mr\\. Dreemurr came in with a pretty sudden request..."&000015e6
-"* \\.\\.\\. but I made it! * Packages delivered superfast: that's our motto!"&000015e7
-"* Here you go...!"&000015e8
-"* `cY`RUNNING BOOTS`c$` were added to `cY`KEY ITEMS`c$`."&000015e9
-"* Hold `$0` while walking to run!"&000015ea
-"* Use them well, kid!"&000015eb
+"* ¡Paquete de Asgore Dreemurr!"&000015e4
+"* ¡Justo a quien estaba buscando!"&000015e5
+"* El Sr\\. Dreemurr vino con una solicitud bastante repentina..."&000015e6
+"* \\.\\.\\. ¡pero lo hice! `%%%`* ¡Los paquetes se entregan superrápido: ese es nuestro lema!"&000015e7
+"* ¡Aquí tienes...!"&000015e8
+"* `cY`BOTAS CORREDORAS`c$` fueron añadidas a `cY`OBJETOS CLAVE`c$`."&000015e9
+"* ¡Manten `$0` mientras caminas para correr!"&000015ea
+"* ¡Úsalas bien, niño!"&000015eb
 
 @ruinc.int
 # END DEMO 2.0 ADDITIONS
